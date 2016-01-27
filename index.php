@@ -3,7 +3,7 @@
 <head>
 <title>Claire Bourdalé</title>
 <meta charset="utf-8" />
-<meta name="description" content="Claire Bourdalé, développement web freelance sur Caen en Normandie" />
+<meta name="description" content="Claire Bourdalé, développement et intrégation web freelance, gestion de projets sportifs | Caen - Normandie" />
 <meta name="viewport" content="width=device-width" />
 <link rel="stylesheet" type="text/css" href="css/design.css">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -18,6 +18,15 @@
 </head>
 
 <body>
+
+	<header>
+		<nav></nav>
+	</header>
+
+	<div class="container">
+	</div>
+
+	<footer></footer>
 
 
 <!-- xxxxxxxxxxxxxxxxx Includes js xxxxxxxxxxxxxxxxxxxx -->	
