@@ -83,12 +83,34 @@ nav li{
 
 @media all and (max-width: 750px){
 
+	.site-container{
+		height: 100vh;
+		overflow: hidden;
+	}
+
+	.site-pusher{
+		height: 100vh;
+		transform: translateX(0px);
+		-webkit-transition-duration: 0.3s; 
+		-moz-transition-duration: 0.3s; 
+		-o-transition-duration: 0.3s; 
+    	transition-duration: 0.3s;
+	}
+
 	header{
 		position: static;
 	}
 
 	.page-contenu{
+		position: absolute;
+		top: 70px;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		overflow:scroll; 
+		-wekkit-overflow-scrolling: touch;
 		margin-top: 0px;
+		z-index: 1;
 	}
 
 	.icone-menu-mobile{
@@ -120,7 +142,29 @@ nav li{
 		width: 250px;
 		background-color: #004D40;
 		transform: translateX(-250px);
+		-webkit-transition-duration: 0.3s; 
+		-moz-transition-duration: 0.3s; 
+		-o-transition-duration: 0.3s; 
+    	transition-duration: 0.3s;
 	}
+
+
+	.wide-sidebar .site-pusher{
+		transform: translateX(250px);
+	}
+
+	.wide-sidebar .site-cache{
+		position: absolute;
+		top: 0;
+		right: 0;
+		left: 0;
+		bottom: 0;
+		background-color: rgba(0,0,0,0.5);
+		z-index: 5;
+		cursor: pointer;
+	}
+
+
 
 	nav ul{
 		display: block;
@@ -147,4 +191,6 @@ nav li{
 	.header-centre{
 		display: block;
 	}
+
+
 }
