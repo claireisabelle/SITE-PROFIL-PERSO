@@ -102,11 +102,23 @@
 					</div>
 
 					<div class="col-lg-2 col-md-3 col-xs-6">
+					<p><img src="img/javascript.png" alt="JavaScript" title="" /><span class="outil">JavaScript</span></p>
+					</div>
+
+					<div class="col-lg-2 col-md-3 col-xs-6">
 					<p><img src="img/php.png" alt="PHP" title="" /><span class="outil">PHP</span></p>
 					</div>
 
 					<div class="col-lg-2 col-md-3 col-xs-6">
 					<p><img src="img/mysql.png" alt="MySql" title="" /><span class="outil">MySql</span></p>
+					</div>
+
+					<div class="col-lg-2 col-md-3 col-xs-6">
+					<p><img src="img/bootstrap.png" alt="Framework CSS Bootstrap" title="" /><span class="outil">Bootstrap</span></p>
+					</div>
+
+					<div class="col-lg-2 col-md-3 col-xs-6">
+					<p><img src="img/seo.png" alt="Search Engine Optimization" title="" /><span class="outil">Référencement</span></p>
 					</div>
 
 					<div class="col-lg-2 col-md-3 col-xs-6">
@@ -118,27 +130,35 @@
 					</div>
 
 					<div class="col-lg-2 col-md-3 col-xs-6">
-					<p><img src="img/gimp.png" alt="" title="" /><span class="outil">Gimp</span></p>
+					<p><img src="img/git.jpg" alt="Git" title="" /><span class="outil">Git</span></p>
 					</div>
 
 					<div class="col-lg-2 col-md-3 col-xs-6">
-					<p><img src="img/photoshop.jpg" alt="" title="" /><span class="outil">Photoshop</span></p>
+					<p><img src="img/gimp.png" alt="The Gimp" title="" /><span class="outil">Gimp</span></p>
 					</div>
 
 					<div class="col-lg-2 col-md-3 col-xs-6">
-					<p><img src="img/inkscape.png" alt="" title="" /><span class="outil">Inkscape</span></p>
+					<p><img src="img/photoshop.jpg" alt="Photoshop" title="" /><span class="outil">Photoshop</span></p>
 					</div>
 
 					<div class="col-lg-2 col-md-3 col-xs-6">
-					<p><img src="img/css.png" alt="" title="" /> CSS</p>
+					<p><img src="img/inkscape.png" alt="Inkscape" title="" /><span class="outil">Inkscape</span></p>
 					</div>
 
 					<div class="col-lg-2 col-md-3 col-xs-6">
-					<p><img src="img/css.png" alt="" title="" /> CSS</p>
+					<p><img src="img/office.png" alt="Microsoft Office" title="" /><span class="outil">Office (xls...)</span></p>
 					</div>
 
 					<div class="col-lg-2 col-md-3 col-xs-6">
-					<p><img src="img/css.png" alt="" title="" /> CSS</p>
+					<p><img src="img/open-office.jpg" alt="Libre Office" title="" /><span class="outil">Libre Office</span></p>
+					</div>
+
+					<div class="col-lg-2 col-md-3 col-xs-6">
+					<p><img src="img/ciel.jpg" alt="Ciel Compta" title="" /><span class="outil">Ciel Compta</span></p>
+					</div>
+
+					<div class="col-lg-2 col-md-3 col-xs-6">
+					<p><img src="img/english.jpg" alt="English spoken" title="" /><span class="outil">English spoken</span></p>
 					</div>
 
 
