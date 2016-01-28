@@ -4,7 +4,7 @@
 <title>Claire Bourdalé, développement et intrégation web freelance, gestion de projets sportifs | Caen - Normandie</title>
 <meta charset="utf-8" />
 <meta name="description" content="Claire Bourdalé, développement et intrégation web freelance, gestion de projets sportifs | Caen - Normandie" />
-<meta name="viewport" content="width=device-width" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; " />
 <link rel="stylesheet" type="text/css" href="css/design.css">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
@@ -18,24 +18,27 @@
 </head>
 
 <body>
-
+<div class="site-container">	
+<div class="site-pusher">
+	
 	<header>
 
-		<a class="icone-menu-mobile" href="#"></a>
+		<a class="icone-menu-mobile" id="icone-menu" href="#"></a>
 
 		<div class="header-centre">
 			<div class="logo"><a href="#">Claire Bourdalé</a></div>
 			<nav class="menu">
-				<ul>
-					<li><a href="#">Profil</a></li>
-					<li class="barre">|</li>
-					<li><a href="#">Parcours</a></li>
-					<li class="barre">|</li>
-					<li><a href="#">Book</a></li>
-				</ul>
+					<ul>
+						<li><a href="#">Profil</a></li>
+						<li class="barre">|</li>
+						<li><a href="#">Parcours</a></li>
+						<li class="barre">|</li>
+						<li><a href="#">Book</a></li>
+					</ul>
 			</nav>
 		</div>
 	</header>
+
 
 	<div class="page-contenu">
 		<h1>Claire Bourdalé</h1>
@@ -61,13 +64,14 @@
 		<p>Proinde concepta rabie saeviore, quam desperatio incendebat et fames, amplificatis viribus ardore incohibili in excidium urbium matris Seleuciae efferebantur, quam comes tuebatur Castricius tresque legiones bellicis sudoribus induratae.</p>
 
 	</div>
+	<div class="site-cache" id="site-cache"></div><!-- fin du site-cache -->
 
-	<footer></footer>
 
+</div>
+</div>
 
 <!-- xxxxxxxxxxxxxxxxx Includes js xxxxxxxxxxxxxxxxxxxx -->	
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
 <script type="text/javascript" src="js/menu.js"></script>
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/jquery.js"></script>
 </body>
 </html>
