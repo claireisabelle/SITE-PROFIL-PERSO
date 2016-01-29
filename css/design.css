@@ -14,6 +14,7 @@ img{
 	border: none;
 }
 
+
 p{
 	font-size: 1.2em !important;
 	color: #424242;
@@ -41,19 +42,20 @@ h3{
 	font-family: 'Kalam' !important;
 }
 
+h4{
+	font-family: 'Kalam' !important;
+}
+
 a{
 	text-decoration: none;
-	color: white !important;
+	color: inherit; !important;
 }
 
 a:hover{
 		text-decoration: none !important;
 }
 
-.logo a{
-	font-family: 'Kalam', cursive;
-	font-size: 1.8em;
-}
+
 
 .outil{
 	font-size: 0.7em !important;
@@ -62,13 +64,12 @@ a:hover{
 }
 
 
-
-[class*="col-"] {
-
-}
-
 .container{
 	background-color: white;
+}
+
+footer{
+	margin-top: 50px;
 }
 
 /* HEADER 
@@ -97,6 +98,16 @@ header{
 	line-height: 70px;
 }
 
+.logo a{
+	font-family: 'Kalam', cursive;
+	font-size: 1.8em;
+	color: rgba(255,255,255, 1);;
+}
+
+.logo a:hover{
+	color: rgba(255,255,255,0.8);
+}
+
 /* MENU
 /////////////////////////////////////
 */
@@ -109,6 +120,15 @@ nav ul{
 nav li{
 	line-height: 70px;
 	padding-right: 10px;
+	font-size: 1.1em;
+	color: rgba(255,255,255, 0.9);
+}
+
+nav li a{
+	color: inherit;
+}
+
+nav li a:hover{
 	color: white;
 }
 
@@ -225,12 +245,16 @@ nav li{
 	nav li a{
 		display: block;
 		width: 250px;
-		height: 40px;
-		line-height: 40px;
+		height: 50px;
+		line-height: 50px;
 		padding: 0;
 		margin: 0;
 		text-align: center;
-		border-bottom: solid 1px #00695C;
+		border-bottom: solid 1px #00695C;;
+	}
+
+	nav li a:hover{
+		background-color: #00695C;
 	}
 
 	.barre{
