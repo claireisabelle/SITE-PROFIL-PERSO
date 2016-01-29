@@ -31,65 +31,71 @@
 			<div class="logo"><a href="index.php">Claire Bourdalé</a></div>
 			<nav class="menu">
 					<ul>
-						<li><a href="#">Profil</a></li>
+						<li><a href="index.php">Profil</a></li>
 						<li class="barre">|</li>
 						<li><a href="#">Parcours</a></li>
 						<li class="barre">|</li>
 						<li><a href="#">Book</a></li>
+						<li class="barre">|</li>
+						<li><a href="#">A propos</a></li>
+						<li class="barre">|</li>
+						<li><a href="#">Contact</a></li>
+						<li><a href="http://www.viadeo.com/profile/00217sadl5wa4zpd" target="_blank"><img src="img/viadeo.png" alt="Viadéo" title="" /></a></li>
+						<li><a href="" target="_blank"><img src="img/linked.png" alt="Linked In" title="" /></a></li>
 					</ul>
 			</nav>
 		</div>
 	</header>
 
 
-	<div class="page-contenu">
+	<div class="page-contenu"><!-- Tout le contenu en-dessous du header -->
 		<div class="container">
 			
 			<div class="col-xs-12">
 				<h1>Développement Web et gestion de projets sportifs</h1>
-				<blockquote>Mox dicta finierat, multitudo omnis ad, quae imperator voluit, promptior laudato consilio consensit in pacem ea ratione maxime percita, quod norat expeditionibus crebris fortunam eius in malis tantum civilibus vigilasse, cum autem bella moverentur externa, accidisse plerumque luctuosa, icto post haec foedere gentium ritu perfectaque sollemnitate imperator Mediolanum ad hiberna discessit</blockquote>
+				<blockquote><strong>Mon projet :</strong> rejoindre une petite équipe au sein d'une structure sur Caen (ou son agglomération) afin de développer ses outils et sa communication Internet tout en l'assistant sur sa gestion administrative et comptable.</blockquote>
 			</div>
 
 
-			<div class="col-xs-12">
+			<div class="col-xs-12"><!-- Rubrique profil compérences -->
 				<h2>Profil compétences</h2>
 			</div>	
 
-			<div class="row">
+				<div class="row">
 
-				<div class="col-lg-4 col-xs-12"> <!-- Bloc développement web -->
-					<div class="col-lg-12 col-xs-4">
-						<a href="#" class="thumbnail"><img src="img/web.jpg" alt="Développement web" title="" /></a>
-					</div>
-					<div class="col-lg-12 col-xs-8">
-						<h3>Développement web</h3>
-						<p>Création, développement et référencement de sites Internet responsives</p>
-					</div>
-				</div>	<!-- Fin bloc développement web -->
+					<div class="col-lg-4 col-xs-12"> <!-- Bloc développement web -->
+						<div class="col-lg-12 col-xs-4">
+							<a href="#" class="thumbnail"><img src="img/web.jpg" alt="Développement web" title="" /></a>
+						</div>
+						<div class="col-lg-12 col-xs-8">
+							<h3>Développement web</h3>
+							<p>Création, développement et référencement de sites Internet responsives</p>
+						</div>
+					</div>	<!-- Fin bloc développement web -->
 
-				<div class="col-lg-4 col-xs-12"> <!-- Bloc gestion administrative -->
-					<div class="col-lg-12 col-xs-4">
-						<a href="#" class="thumbnail"><img src="img/gestion.jpg" alt="Gestion administrative, comptable et commerciale" title="" /></a>
-					</div>
-					<div class="col-lg-12 col-xs-8">
-						<h3>Gestion de structures sportives</h3>
-						<p>Gestion administrative, comptable et commerciale de structures sportives</p>
-					</div>
-				</div><!-- Fin bloc gestion administrative -->
+					<div class="col-lg-4 col-xs-12"> <!-- Bloc gestion administrative -->
+						<div class="col-lg-12 col-xs-4">
+							<a href="#" class="thumbnail"><img src="img/gestion.jpg" alt="Gestion administrative, comptable et commerciale" title="" /></a>
+						</div>
+						<div class="col-lg-12 col-xs-8">
+							<h3>Gestion de structures sportives</h3>
+							<p>Gestion administrative, comptable et commerciale de structures sportives</p>
+						</div>
+					</div><!-- Fin bloc gestion administrative -->
 
-				<div class="col-lg-4 col-xs-12"> <!-- Bloc organisation événementielle -->
-					<div class="col-lg-12 col-xs-4">
-						<a href="#" class="thumbnail"><img src="img/evenementiel.jpg" alt="Organisation d'événementiels sportifs" title="" /></a>
-					</div>
-					<div class="col-lg-12 col-xs-8">
-						<h3>Gestion de projets événementiels</h3>
-						<p>Organisation de manifestations sportives de sa définition à sa conceptualisation</p>
-					</div>
-				</div>	<!--Fin bloc organisation événementielle -->
+					<div class="col-lg-4 col-xs-12"> <!-- Bloc organisation événementielle -->
+						<div class="col-lg-12 col-xs-4">
+							<a href="#" class="thumbnail"><img src="img/evenementiel.jpg" alt="Organisation d'événementiels sportifs" title="" /></a>
+						</div>
+						<div class="col-lg-12 col-xs-8">
+							<h3>Gestion de projets événementiels</h3>
+							<p>Organisation de manifestations sportives de sa définition à sa conceptualisation</p>
+						</div>
+					</div>	<!--Fin bloc organisation événementielle -->
 
-			</div><!-- fin du row profil compétences -->
+				</div><!-- fin du row profil compétences -->
 
-			<div class="col-xs-12">
+			<div class="col-xs-12"><!-- Rubrique Outils et techniques -->
 				<h2>Outils &amp; techniques</h2>
 
 				<div class="row">
@@ -162,38 +168,44 @@
 					</div>
 
 
+				</div><!-- fin du row outils et techniques -->
+			</div><!-- fin rubrique Outils et techniques -->
+
+
+		</div><!-- fin du container -->
+
+		<footer class="container">
+			<div class="row">
+				<div class="col-xs-5">
+					<blockquote>
+						Un bon site Web est toujours “en construction” !
+						<small class="pull-right">Anonyme</small>
+					</blockquote>
+				</div>
+
+
+				<div class="col-xs-offset-1 col-xs-6">
+					<div class="panel panel-default">
+		  				<div class="panel-heading">
+		    				<h4 class="panel-title">Claire Bourdalé</h4>
+		  				</div>
+		  				<div class="panel-body">
+		   					 <p>Retrouvez mon profil</p>	
+		   					 <p><a href="http://www.viadeo.com/profile/00217sadl5wa4zpd" target="_blank"><img src="img/viadeo.png" alt="Viadéo"/> Viadéo</a></p>
+		   					 <p><a href="#" target="_blank"><img src="img/linked.png" alt="Linked In"/> Linked In</a></p>
+		   					 
+		  				</div>
+					</div>
 				</div>
 			</div>
-
-
-
-			<p>Mox dicta finierat, multitudo omnis ad, quae imperator voluit, promptior laudato consilio consensit in pacem ea ratione maxime percita, quod norat expeditionibus crebris fortunam eius in malis tantum civilibus vigilasse, cum autem bella moverentur externa, accidisse plerumque luctuosa, icto post haec foedere gentium ritu perfectaque sollemnitate imperator Mediolanum ad hiberna discessit.</p>
-
-			<p>Eminuit autem inter humilia supergressa iam impotentia fines mediocrium delictorum nefanda Clematii cuiusdam Alexandrini nobilis mors repentina; cuius socrus cum misceri sibi generum, flagrans eius amore, non impetraret, ut ferebatur, per palatii pseudothyrum introducta, oblato pretioso reginae monili id adsecuta est, ut ad Honoratum tum comitem orientis formula missa letali omnino scelere nullo contactus idem Clematius nec hiscere nec loqui permissus occideretur.</p>
-
-			<p>Itaque tum Scaevola cum in eam ipsam mentionem incidisset, exposuit nobis sermonem Laeli de amicitia habitum ab illo secum et cum altero genero, C. Fannio Marci filio, paucis diebus post mortem Africani. Eius disputationis sententias memoriae mandavi, quas hoc libro exposui arbitratu meo; quasi enim ipsos induxi loquentes, ne 'inquam' et 'inquit' saepius interponeretur, atque ut tamquam a praesentibus coram haberi sermo videretur.</p>
-
-			<p>Excitavit hic ardor milites per municipia plurima, quae isdem conterminant, dispositos et castella, sed quisque serpentes latius pro viribus repellere moliens, nunc globis confertos, aliquotiens et dispersos multitudine superabatur ingenti, quae nata et educata inter editos recurvosque ambitus montium eos ut loca plana persultat et mollia, missilibus obvios eminus lacessens et ululatu truci perterrens.</p>
-
-			<p>Proinde concepta rabie saeviore, quam desperatio incendebat et fames, amplificatis viribus ardore incohibili in excidium urbium matris Seleuciae efferebantur, quam comes tuebatur Castricius tresque legiones bellicis sudoribus induratae.</p>
-
-			<p>Mox dicta finierat, multitudo omnis ad, quae imperator voluit, promptior laudato consilio consensit in pacem ea ratione maxime percita, quod norat expeditionibus crebris fortunam eius in malis tantum civilibus vigilasse, cum autem bella moverentur externa, accidisse plerumque luctuosa, icto post haec foedere gentium ritu perfectaque sollemnitate imperator Mediolanum ad hiberna discessit.</p>
-
-			<p>Eminuit autem inter humilia supergressa iam impotentia fines mediocrium delictorum nefanda Clematii cuiusdam Alexandrini nobilis mors repentina; cuius socrus cum misceri sibi generum, flagrans eius amore, non impetraret, ut ferebatur, per palatii pseudothyrum introducta, oblato pretioso reginae monili id adsecuta est, ut ad Honoratum tum comitem orientis formula missa letali omnino scelere nullo contactus idem Clematius nec hiscere nec loqui permissus occideretur.</p>
-
-			<p>Itaque tum Scaevola cum in eam ipsam mentionem incidisset, exposuit nobis sermonem Laeli de amicitia habitum ab illo secum et cum altero genero, C. Fannio Marci filio, paucis diebus post mortem Africani. Eius disputationis sententias memoriae mandavi, quas hoc libro exposui arbitratu meo; quasi enim ipsos induxi loquentes, ne 'inquam' et 'inquit' saepius interponeretur, atque ut tamquam a praesentibus coram haberi sermo videretur.</p>
-
-			<p>Excitavit hic ardor milites per municipia plurima, quae isdem conterminant, dispositos et castella, sed quisque serpentes latius pro viribus repellere moliens, nunc globis confertos, aliquotiens et dispersos multitudine superabatur ingenti, quae nata et educata inter editos recurvosque ambitus montium eos ut loca plana persultat et mollia, missilibus obvios eminus lacessens et ululatu truci perterrens.</p>
-
-			<p>Proinde concepta rabie saeviore, quam desperatio incendebat et fames, amplificatis viribus ardore incohibili in excidium urbium matris Seleuciae efferebantur, quam comes tuebatur Castricius tresque legiones bellicis sudoribus induratae.</p>
-		</div>
+		</footer>
 
 	</div><!-- fin du page contenu -->
-	<div class="site-cache" id="site-cache"></div><!-- fin du site-cache -->
+	<div class="site-cache" id="site-cache"></div><!-- fin du site-cache (pour la partie ombrée cliquable sur mobile) -->
 
 
-</div>
-</div>
+</div><!-- fin du site pusher (pour le décalage sur mobile) -->
+</div><!-- fin du site container -->
 
 <!-- xxxxxxxxxxxxxxxxx Includes js xxxxxxxxxxxxxxxxxxxx -->	
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
