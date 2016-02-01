@@ -146,6 +146,13 @@ nav li a:hover{
 	margin-top: 70px;
 }
 
+.page-contenu li{
+	font-size: 1.2em !important;
+	list-style-type: square;
+}
+
+
+
 
 /* RESPONSIVE 
 /////////////////////////////////////
