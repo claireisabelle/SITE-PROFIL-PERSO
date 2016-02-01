@@ -26,7 +26,7 @@
 
 					<div class="col-lg-4 col-xs-12"> <!-- Bloc développement web -->
 						<div class="col-lg-12 col-xs-4">
-							<a href="#" class="thumbnail"><img src="img/web.jpg" alt="Développement web" title="" /></a>
+							<span class="thumbnail"><img src="img/web.jpg" alt="Développement web" title="" /></span>
 						</div>
 						<div class="col-lg-12 col-xs-8">
 							<h3>Développement web</h3>
@@ -36,7 +36,7 @@
 
 					<div class="col-lg-4 col-xs-12"> <!-- Bloc gestion administrative -->
 						<div class="col-lg-12 col-xs-4">
-							<a href="#" class="thumbnail"><img src="img/gestion.jpg" alt="Gestion administrative, comptable et commerciale" title="" /></a>
+							<span class="thumbnail"><img src="img/gestion.jpg" alt="Gestion administrative, comptable et commerciale" title="" /></span>
 						</div>
 						<div class="col-lg-12 col-xs-8">
 							<h3>Gestion de structures sportives</h3>
@@ -46,7 +46,7 @@
 
 					<div class="col-lg-4 col-xs-12"> <!-- Bloc organisation événementielle -->
 						<div class="col-lg-12 col-xs-4">
-							<a href="#" class="thumbnail"><img src="img/evenementiel.jpg" alt="Organisation d'événementiels sportifs" title="" /></a>
+							<span class="thumbnail"><img src="img/evenementiel.jpg" alt="Organisation d'événementiels sportifs" title="" /></span>
 						</div>
 						<div class="col-lg-12 col-xs-8">
 							<h3>Gestion de projets événementiels</h3>
