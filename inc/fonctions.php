@@ -1,5 +1,9 @@
 <?php
 
+// ********************************************************************************************************************************
+// CITATION
+// ********************************************************************************************************************************
+
 function afficherCitation(){
 
 	$citations = array(							
@@ -29,8 +33,75 @@ function afficherCitation(){
 							'Proverbe Touareg');
 
 	$nbre_citations = count($citations);
-
-	$numero = rand(0,$nbre_citations) - 1;
+	$limite = $nbre_citations - 1;
+	$numero = rand(0,$limite);
 
 	echo '<blockquote>' . $citations[$numero] . '<br /><small class="pull-right">' . $auteurs[$numero] . '</small></blockquote>';
+}
+
+
+// ********************************************************************************************************************************
+// DATE
+// ********************************************************************************************************************************
+
+function afficherDate(){
+	$jour = date('j');
+
+	if($jour == 1){
+		$jour = '1er';
+	}
+
+	$mois = date('F');
+
+	if($mois == 'January'){
+		$mois = 'janvier';
+	}
+
+	if($mois == 'February'){
+		$mois = 'février';
+	}
+
+	if($mois == 'March'){
+		$mois = 'mars';
+	}
+
+	if($mois == 'April'){
+		$mois = 'avril';
+	}
+
+	if($mois == 'May'){
+		$mois = 'mai';
+	}
+
+	if($mois == 'June'){
+		$mois = 'juin';
+	}
+
+	if($mois == 'July'){
+		$mois = 'juillet';
+	}
+
+	if($mois == 'August'){
+		$mois = 'août';
+	}
+
+	if($mois == 'September'){
+		$mois = 'septembre';
+	}
+
+	if($mois == 'October'){
+		$mois = 'octobre';
+	}
+
+	if($mois == 'November'){
+		$mois = 'novembre';
+	}
+
+	if($mois == 'December'){
+		$mois = 'décembre';
+	}
+
+	$annee = date('Y');
+
+	echo $jour . ' ' . $mois . ' ' . $annee;
 }

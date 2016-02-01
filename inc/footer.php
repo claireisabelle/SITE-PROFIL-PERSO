@@ -2,10 +2,7 @@
 		<footer class="container">
 			<div class="row">
 				<div class="col-xs-12 col-sm-5"><!-- Partie citations -->
-					<?php 
-					include_once('inc/fonctions.php');
-					afficherCitation();
-					?>
+					<?php afficherCitation(); ?>
 				</div><!-- Fin de la partie citations -->
 
 
