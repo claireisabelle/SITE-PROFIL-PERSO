@@ -44,7 +44,7 @@
 				<div class="col-xs-10">
 					<h3>Arroweb (<em>depuis 2009</em>)</h3>
 					<h4>Webmaster Freelance</h4>
-					<p>Conception d'une soixantaine de sites Internet </p>
+					<p>Création, développement et référencement de site Internet </p>
 				</div>
 			</div><!-- Fin du Row ARROWEB -->
 
@@ -84,7 +84,27 @@
 				</div>
 			</div><!-- Fin du Row IPROCORPORATE -->
 			
+			<div class="row"><!-- Row SEQUENCE EMOTIONS -->
+				<div class="col-xs-2">
+					<p class="thumbnail"><img src="img/logo-sequence.jpg" alt="Séquence Emotions" title="" /></p>
+				</div>
+				<div class="col-xs-10">
+					<h3>Séquence Emotions (<em>2006 - 2008</em>)</h3>
+					<h4>Assistante commerciale</h4>
+					<p>Organisation de séminaires sportifs, développement de partenariats sportifs, réalisation des supports de communication (site Internet, plaquette, logo, flyers, vidéos)</p>
+				</div>
+			</div><!-- Fin du Row SEQUENCE EMOTIONS -->
 
+			<div class="row"><!-- Row AVENTURE CANOES -->
+				<div class="col-xs-2">
+					<p class="thumbnail"><img src="img/logo-aventure.png" alt="Aventure Canoës" title="" /></p>
+				</div>
+				<div class="col-xs-10">
+					<h3>Aventure Canoës (<em>2005</em>)</h3>
+					<h4>Assistante commerciale</h4>
+					<p>Gestion administrative et commerciale des randonnées kayak, gestion du magasin associé</p>
+				</div>
+			</div><!-- Fin du Row AVENTURE CANOES -->
 
 		</div><!-- fin du container -->
 
