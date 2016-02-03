@@ -10,7 +10,7 @@
 						<li class="barre">|</li>
 						<li><a href="parcours-professionnel.php">Parcours</a></li>
 						<li class="barre">|</li>
-						<li><a href="#">Book</a></li>
+						<li><a href="book.php">Book</a></li>
 						<li class="barre">|</li>
 						<li><a href="#">A propos</a></li>
 						<li class="barre">|</li>
