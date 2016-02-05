@@ -168,7 +168,7 @@ if (isset($_GET['supprimer_reference']))
 			<tr>
 				<td><a href="ajouter-reference.php?modifier_reference=<?php echo $donnee['id']; ?>" class="label label-primary">Modifier</a></td>
 				<td><a href="lister-reference.php?supprimer_reference=<?php echo $donnee['id']; ?>" class="label label-danger">Supprimer</a></td>
-				<td><?php echo htmlspecialchars($donnee['titre']); ?></td>
+				<td><?php echo stripslashes(htmlspecialchars($donnee['titre'])); ?></td>
 				<td><?php echo htmlspecialchars($donnee['annee']); ?></td>
 				<td><img src="../upload/<?php echo htmlspecialchars($donnee['image']); ?>" alt="image" width="25px" height="25px" /></td>
 			</tr>

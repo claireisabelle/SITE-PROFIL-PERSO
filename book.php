@@ -33,7 +33,7 @@
 					<p class="thumbnail"><img src="upload/<?php echo $donnee['image']; ?>" alt="Illustration référence" title="" /></p>
 				</div>
 				<div class="col-xs-12 col-sm-10">
-					<h4><?php echo $donnee['titre']; ?></h4>
+					<h4><?php echo stripslashes(htmlspecialchars($donnee['titre'])); ?></h4>
 					
 					<p>
 					<?php	
@@ -52,7 +52,7 @@
 					?>	
 					</p>
 					
-					<p><?php echo nl2br($donnee['description']); ?></p>
+					<p><?php echo stripslashes(nl2br($donnee['description'])); ?></p>
 				</div>
 			</div><!-- Fin du Row BOOK -->
 

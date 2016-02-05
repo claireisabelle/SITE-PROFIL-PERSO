@@ -16,7 +16,7 @@
 						<li class="barre">|</li>
 						<li><a href="contact.php">Contact</a></li>
 						<li><a href="http://www.viadeo.com/profile/00217sadl5wa4zpd" target="_blank"><img src="img/viadeo.png" alt="Viadéo" title="" /></a></li>
-						<li><a href="" target="_blank"><img src="img/linked.png" alt="Linked In" title="" /></a></li>
+						<li><a href="https://fr.linkedin.com/in/claire-bourdalé-754516114" target="_blank"><img src="img/linked.png" alt="Linked In" title="" /></a></li>
 					</ul>
 			</nav>
 		</div>
