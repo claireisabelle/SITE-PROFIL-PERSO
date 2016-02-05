@@ -55,6 +55,13 @@ a:hover{
 		text-decoration: none !important;
 }
 
+.icon-espace{
+	vertical-align: middle;
+}
+
+.blanc{
+	color: white!important;
+}
 
 
 .outil{
@@ -166,8 +173,12 @@ nav li a:hover{
 	}
 
 	.site-pusher{
-		height: 100vh;
-		transform: translateX(0px);
+		position: fixed;
+		top: 0;
+		bottom:0;
+		right: 0;
+		left:0;
+		/* transform: translateX(0px); */
 		-webkit-transition-duration: 0.3s; 
 		-moz-transition-duration: 0.3s; 
 		-o-transition-duration: 0.3s; 
@@ -185,7 +196,7 @@ nav li a:hover{
 		right: 0;
 		bottom: 0;
 		overflow:scroll; 
-		-wekkit-overflow-scrolling: touch;
+		-wekkit-overflow-scrolling: touch; 
 		margin-top: 0px;
 		z-index: 1;
 	}
@@ -213,12 +224,12 @@ nav li a:hover{
 	.menu{
 		display: block;
 		position: absolute;
-		left: 0;
+		left: -250px;
 		top: 0;
 		bottom: 0;
 		width: 250px;
 		background-color: #004D40;
-		transform: translateX(-250px);
+		/* transform: translateX(-250px); */
 		-webkit-transition-duration: 0.3s; 
 		-moz-transition-duration: 0.3s; 
 		-o-transition-duration: 0.3s; 
@@ -227,7 +238,8 @@ nav li a:hover{
 
 
 	.wide-sidebar .site-pusher{
-		transform: translateX(250px);
+		left: 250px;
+		/*transform: translateX(250px);*/
 	}
 
 	.wide-sidebar .site-cache{

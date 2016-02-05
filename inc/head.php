@@ -4,6 +4,8 @@
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Kalam:700' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="img/favicon.ico" />
+
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -15,5 +17,6 @@
 </head>
 
 <body>
+<?php include_once("inc/analyticstracking.php") ?>
 <div class="site-container">	
 <div class="site-pusher">

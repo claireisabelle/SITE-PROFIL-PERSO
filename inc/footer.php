@@ -12,9 +12,10 @@
 		    				<h4 class="panel-title">Claire Bourdalé</h4>
 		  				</div>
 		  				<div class="panel-body">
-		   					 <p>Retrouvez mon profil</p>	
+		  					 <p><a href="index.php">Profil |</a>  <a href="parcours-professionnel.php">Parcours |</a>  <a href="book.php">Book |</a>  <a href="a-propos.php">A propos |</a> <a href="contact.php">Contact</a></p>
 		   					 <p><a href="http://www.viadeo.com/profile/00217sadl5wa4zpd" target="_blank"><img src="img/viadeo.png" alt="Viadéo"/> Viadéo</a></p>
-		   					 <p><a href="#" target="_blank"><img src="img/linked.png" alt="Linked In"/> Linked In</a></p>
+		   					 <p><a href="#" target="_blank"><img src="img/linked.png" alt="Linked In"/> Linked In</a><br /><br /></p>
+
 		   					 
 		  				</div>
 					</div>

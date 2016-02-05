@@ -29,10 +29,10 @@
 
 
 			<div class="row"><!-- Row BOOK -->
-				<div class="col-xs-2">
+				<div class="hidden-xs col-sm-2">
 					<p class="thumbnail"><img src="upload/<?php echo $donnee['image']; ?>" alt="Illustration référence" title="" /></p>
 				</div>
-				<div class="col-xs-10">
+				<div class="col-xs-12 col-sm-10">
 					<h4><?php echo $donnee['titre']; ?></h4>
 					
 					<p>

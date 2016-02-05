@@ -12,9 +12,9 @@
 						<li class="barre">|</li>
 						<li><a href="book.php">Book</a></li>
 						<li class="barre">|</li>
-						<li><a href="#">A propos</a></li>
+						<li><a href="a-propos.php">A propos</a></li>
 						<li class="barre">|</li>
-						<li><a href="#">Contact</a></li>
+						<li><a href="contact.php">Contact</a></li>
 						<li><a href="http://www.viadeo.com/profile/00217sadl5wa4zpd" target="_blank"><img src="img/viadeo.png" alt="Viadéo" title="" /></a></li>
 						<li><a href="" target="_blank"><img src="img/linked.png" alt="Linked In" title="" /></a></li>
 					</ul>

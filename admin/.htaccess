@@ -1,0 +1,4 @@
+AuthName "Administration - connexion"
+AuthType Basic
+AuthUserFile "/home/arroweb/www/clairebourdale/admin/.htpasswd"
+Require valid-user

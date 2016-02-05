@@ -25,30 +25,30 @@
 				<div class="row">
 
 					<div class="col-lg-4 col-xs-12"> <!-- Bloc développement web -->
-						<div class="col-lg-12 col-xs-4">
+						<div class="col-lg-12 col-sm-4 col-xs-12">
 							<span class="thumbnail"><img src="img/web.jpg" alt="Développement web" title="" /></span>
 						</div>
-						<div class="col-lg-12 col-xs-8">
+						<div class="col-lg-12 col-sm-8 col-xs-12">
 							<h3>Développement web</h3>
 							<p>Création, développement et référencement de sites Internet responsives</p>
 						</div>
 					</div>	<!-- Fin bloc développement web -->
 
 					<div class="col-lg-4 col-xs-12"> <!-- Bloc gestion administrative -->
-						<div class="col-lg-12 col-xs-4">
+						<div class="col-lg-12 col-sm-4 col-xs-12">
 							<span class="thumbnail"><img src="img/gestion.jpg" alt="Gestion administrative, comptable et commerciale" title="" /></span>
 						</div>
-						<div class="col-lg-12 col-xs-8">
+						<div class="col-lg-12 col-sm-8 col-xs-12">
 							<h3>Gestion de structures sportives</h3>
 							<p>Gestion administrative, comptable et commerciale de structures sportives</p>
 						</div>
 					</div><!-- Fin bloc gestion administrative -->
 
 					<div class="col-lg-4 col-xs-12"> <!-- Bloc organisation événementielle -->
-						<div class="col-lg-12 col-xs-4">
+						<div class="col-lg-12 col-sm-4 col-xs-12">
 							<span class="thumbnail"><img src="img/evenementiel.jpg" alt="Organisation d'événementiels sportifs" title="" /></span>
 						</div>
-						<div class="col-lg-12 col-xs-8">
+						<div class="col-lg-12 col-sm-8 col-xs-12">
 							<h3>Gestion de projets événementiels</h3>
 							<p>Organisation de manifestations sportives de sa définition à sa conceptualisation</p>
 						</div>
@@ -60,72 +60,72 @@
 				<h2>Outils &amp; techniques</h2>
 
 				<div class="row">
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/css.png" alt="CSS3" title="" /><span class="outil">CSS3</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/html5.png" alt="HTML5" title="" /><span class="outil">HTML5</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/javascript.png" alt="JavaScript" title="" /><span class="outil">JavaScript</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/php.png" alt="PHP" title="" /><span class="outil">PHP</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/mysql.png" alt="MySql" title="" /><span class="outil">MySql</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/bootstrap.png" alt="Framework CSS Bootstrap" title="" /><span class="outil">Bootstrap</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/seo.png" alt="Search Engine Optimization" title="" /><span class="outil">Référencement</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
-					<p><img src="img/wordpress.png" alt="Wordpress" title="" /><span class="outil">CMS Wordpress</span></p>
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
+					<p><img src="img/wordpress.png" alt="Wordpress" title="" /><span class="outil">Wordpress</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
-					<p><img src="img/dotclear.jpg" alt="Dotclear" title="" /><span class="outil">CMS Dotclear</span></p>
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
+					<p><img src="img/dotclear.jpg" alt="Dotclear" title="" /><span class="outil">Dotclear</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/git.jpg" alt="Git" title="" /><span class="outil">Git</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/gimp.png" alt="The Gimp" title="" /><span class="outil">Gimp</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/photoshop.jpg" alt="Photoshop" title="" /><span class="outil">Photoshop</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/inkscape.png" alt="Inkscape" title="" /><span class="outil">Inkscape</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/office.png" alt="Microsoft Office" title="" /><span class="outil">Office (xls...)</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/open-office.jpg" alt="Libre Office" title="" /><span class="outil">Libre Office</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/ciel.jpg" alt="Ciel Compta" title="" /><span class="outil">Ciel Compta</span></p>
 					</div>
 
-					<div class="col-lg-2 col-md-3 col-xs-6">
-					<p><img src="img/english.jpg" alt="English spoken" title="" /><span class="outil">English spoken</span></p>
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
+					<p><img src="img/english.jpg" alt="English spoken" title="" /><span class="outil">English</span></p>
 					</div>
 
 
