@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Claire Bourdalé, développement et intrégation web freelance, gestion de projets sportifs | Caen - Normandie</title>
-<meta name="description" content="Claire Bourdalé, développement et intrégation web freelance, gestion de projets sportifs | Caen - Normandie" />
+<title>Claire Bourdalé, développement et intégration web, gestion de projets sportifs | Caen - Normandie</title>
+<meta name="description" content="Claire Bourdalé, développement et intrégation web, gestion de projets sportifs | Caen - Normandie" />
 
 <?php include('inc/head.php'); ?>
 	
