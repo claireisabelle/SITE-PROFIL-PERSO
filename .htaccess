@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^claire-bourdale.com$
+RewriteRule ^(.*) "http://www.claire-bourdale.com/$1" [QSA,L,R=301]
+RewriteCond %{THE_REQUEST} ^(GET|POST|HEAD)\ (/.*)?/index.(php)
+RewriteRule ^(.*)index.(php)$ /$1 [R=301,L]
