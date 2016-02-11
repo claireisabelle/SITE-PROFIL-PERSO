@@ -41,7 +41,7 @@ if (isset($_POST['annee']) AND isset($_POST['titre']) AND isset($_POST['descript
 {
 	$annee = (int) htmlspecialchars($_POST['annee']);
 	$titre = htmlspecialchars($_POST['titre']);
-	$description = htmlspecialchars($_POST['description']);
+	$description = ($_POST['description']);
 	$tag_web = htmlspecialchars($_POST['tag_web']);
 	$tag_gestion = htmlspecialchars($_POST['tag_gestion']);
 	$tag_evenement = htmlspecialchars($_POST['tag_evenement']);
