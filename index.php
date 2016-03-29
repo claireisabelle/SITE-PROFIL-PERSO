@@ -81,6 +81,10 @@
 					</div>
 
 					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
+					<p><img src="img/symfony.png" alt="Framework PHP Symfony" title="" /><span class="outil">Symfony 3</span></p>
+					</div>
+
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
 					<p><img src="img/bootstrap.png" alt="Framework CSS Bootstrap" title="" /><span class="outil">Bootstrap</span></p>
 					</div>
 

@@ -1,5 +1,5 @@
 <?php
-if (isset($_POST['login']) AND isset($_POST['pass']))
+if (isset($_POST['login']) && isset($_POST['pass']))
 {
     $login = $_POST['login'];
     $pass_crypte = crypt($_POST['pass']); // On crypte le mot de passe
