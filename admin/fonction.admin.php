@@ -75,3 +75,4 @@ else // pas d'image envoyée
 }
 
 }// fin de la fonction
+

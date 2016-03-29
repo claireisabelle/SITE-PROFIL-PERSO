@@ -105,3 +105,4 @@ function afficherDate(){
 
 	echo $jour . ' ' . $mois . ' ' . $annee;
 }
+

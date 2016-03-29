@@ -61,3 +61,4 @@
 		</div><!-- fin du container -->
 
 <?php include('inc/footer.php'); ?>
+
