@@ -37,7 +37,7 @@ include('fonction.admin.php');
 // Vérification 1 : est-ce qu'on veut ajouter une nouvelle référence ?
 //--------------------------------------------------------------------
 
-if (isset($_POST['annee']) AND isset($_POST['titre']) AND isset($_POST['description']))
+if (isset($_POST['annee']) && isset($_POST['titre']) && isset($_POST['description']))
 {
 	$annee = (int) htmlspecialchars($_POST['annee']);
 	$titre = htmlspecialchars($_POST['titre']);
