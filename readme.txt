@@ -1,4 +1,4 @@
-Claire Bourdalé
-Développement du site web de mon profil
+Claire BourdalÃ©
+DÃ©veloppement du site web de mon profil
 
 ***************************************
